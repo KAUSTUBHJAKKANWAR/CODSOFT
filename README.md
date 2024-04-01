@@ -1,4 +1,4 @@
-**CODSOFT - Calculator Project**
+**CODSOFT - My Calcy Project**
 A simple yet powerful calculator web application built with HTML, CSS, and JavaScript. This project provides basic arithmetic operations such as addition, subtraction, multiplication, and division, along with percentage calculations.
 
 
